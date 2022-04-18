@@ -1,0 +1,8 @@
+<PAMDataset>
+  <SRS>PROJCS[&quot;Custom&quot;,PROJECTION[&quot;(Unknown)&quot;],UNIT[&quot;Meter&quot;,1]]</SRS>
+    <GeodataXform xsi:type='typens:IdentityXform' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/9.3'>
+      <SpatialReference xsi:type='typens:ProjectedCoordinateSystem'>
+        <WKT>PROJCS[&quot;Custom&quot;,PROJECTION[&quot;(Unknown)&quot;],UNIT[&quot;Meter&quot;,1]]</WKT>
+      </SpatialReference>
+    </GeodataXform>
+</PAMDataset>
